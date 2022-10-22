@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Francisco302
-- 👀 I’m interested in data analysis and machine Learning
+- 👀 I’m interested in Web Development
+<!--
 - 🌱 I’m currently learning CV
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
+-->
 
 <!---
 Francisco302/Francisco302 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
